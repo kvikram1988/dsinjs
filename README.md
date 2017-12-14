@@ -1,2 +1,2 @@
 # dsinjs
-Data structures implementation in Javascript
+Data structures implementation in Javascript.
