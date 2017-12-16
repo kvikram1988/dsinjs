@@ -11,7 +11,7 @@
 	}
 
 	Stack.prototype.pop = function () {
-		this.storage.shift();
+		this.storage.pop();
 		//this.storage.splice(this.count-1, 1);
 		this.count--;
 		return this.storage;
